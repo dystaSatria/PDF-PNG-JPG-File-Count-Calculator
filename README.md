@@ -1,4 +1,4 @@
-# PDF-PNG-JPG-File-Count-Calculator
+# Application Preview
 
 <br>
 <br>
