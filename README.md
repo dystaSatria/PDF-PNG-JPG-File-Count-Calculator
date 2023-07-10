@@ -2,7 +2,8 @@
 <br>
 <br>
 
-Click the main.exe for run application
+* Click the main.exe for run application
+  
 <br>
 <br>
 
